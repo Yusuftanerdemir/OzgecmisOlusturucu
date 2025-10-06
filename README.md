@@ -54,27 +54,4 @@ Apache PDFBox Kütüphanesi (Harici bağımlılık)
 
 
 
-Komutlar
-
-Derleme (Compilation):
-
-
-
-Bash
-
-
-
-javac -cp "path/to/pdfbox-app-x.x.x.jar" CVOlusuturucu.java
-
-Çalıştırma (Execution):
-
-
-
-Bash
-
-
-
-java -cp ".;path/to/pdfbox-app-x.x.x.jar" CVOlusuturucu
-
-(Not: Uygulama çalıştıktan sonra konsol üzerinden gerekli bilgileri adım adım girmeniz gerekmektedir.)
 
